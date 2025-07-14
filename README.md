@@ -30,7 +30,7 @@
 
 ## 🚀 How to Run
 
-1. Clone the repository : git clone https://github.com/Utsavmodi2811/Excel Analytics Platform-Excel-Analytics-Platform.git
+1. Clone the repository
 2. Install dependencies for both frontend and backend
 3. Set up environment variables for database and JWT
 4. Run backend: `npm run dev`
