@@ -46,10 +46,6 @@ Excel Analytics Platform is ideal for:
 - Anyone needing quick, interactive data insights without coding
 
 ## 📬 Contact
-
-**Developer**: Utsav Modi  
-**Internship**: Zidio Technologies (1-Month)
-
 ---
 
 © 2025 Excel Analytics Platform by Simon. All rights reserved.
